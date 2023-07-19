@@ -1,0 +1,17 @@
+Software Installation and Setup
+- Installation Failure
+- Configuration Error
+- Activation Problem
+User Interface and Experience
+- Usability Issue
+- Accessibility Issue
+- Visual Design Issue
+Functionality and Performance
+- Bug Report
+- Feature Request
+- Performance Issue
+Data and Security
+- Data Loss
+- Data Corruption
+- Security Vulnerability
+Other
